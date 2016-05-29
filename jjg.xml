@@ -14,6 +14,7 @@
 			<description>This one, is the first song, on our new record</description>
 			<pubDate>Sat, 28 May 2016 08:00 CST</pubDate>
 			<enclosure url="http://192.168.1.162:8000/media/metroid_intro.mp3" length="659456" type="audio/mpeg" />
+			<enclosure url="http://192.168.1.162:8000/media/metroid_itemroom.mp3" length="3184640" type="audio/mpeg" />
 			<itunes:author>Jason J. Gullickson</itunes:author>
 		</item>
 	</channel>
