@@ -4,7 +4,7 @@
 		<title>Mixcast Test</title>
 		<description>Broadcast playlists as podcasts</description>
 		<itunes:author>Jason J. Gullickson</itunes:author>
-		<itunes:image href="http://192.168.1.162:8000/images/default.jpg" />
+		<itunes:image href="http://192.168.1.162:8000/media/default.png" />
 		<link>http://mixcast.com</link>
 		<language>en-us</language>
 		<pubDate>Sat, 28 May 2016 08:45 CST</pubDate>
